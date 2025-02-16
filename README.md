@@ -10,7 +10,7 @@
 - **Botnet Research** – Familiar with botnet creation and management for security analysis and testing.  
 - **Proof of Concept (PoC) Development** – Proficient in creating PoCs to validate vulnerabilities and exploits.  
 - **Full-Stack Development** – Experienced in both frontend and backend technologies to build seamless applications.
-- **Low level Windows Programming 
+- **Low level Windows Programming**
 
 
 ---  
