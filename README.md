@@ -9,15 +9,10 @@
 - **DDoS Attacks** – Knowledgeable in both executing and defending against Distributed Denial of Service attacks.  
 - **Botnet Research** – Familiar with botnet creation and management for security analysis and testing.  
 - **Proof of Concept (PoC) Development** – Proficient in creating PoCs to validate vulnerabilities and exploits.  
-- **Full-Stack Development** – Experienced in both frontend and backend technologies to build seamless applications.  
+- **Full-Stack Development** – Experienced in both frontend and backend technologies to build seamless applications.
+- **Low level Windows Programming 
 
-## 🛠️ Tools & Frameworks  
-- **Offensive Security** – Metasploit, Nmap, Burp Suite, OWASP ZAP  
-- **Network & Cryptanalysis** – Wireshark, Aircrack-ng, John the Ripper  
-- **DevOps & Automation** – Docker, Kubernetes, Jenkins  
-- **Web & API Development** – Flask, Django, Node.js  
-- **Databases** – Redis, PostgreSQL, MongoDB  
-- **Version Control & CI/CD** – Git, GitHub Actions, Travis CI  
+
 ---  
 🚀 *Always exploring new cybersecurity frontiers!*  
 
