@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**SilentDev33/SilentDev33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔍 Security researcher focused on Windows evasion techniques  
+- 🛠️ Experienced in reverse engineering and penetration testing  
+- 📝 Writing about cybersecurity, coding, and low-level system internals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- 🔹 Windows Internals | Malware Analysis | Reverse Engineering  
+- 🔹 C, C++, Assembly, Python  
+- 🔹 x86/x64 Architecture  
+
+## 📫 How to reach me  
+- 💬 [Your LinkedIn or Twitter]  
+- 📧 Email: [Your Email]  
+
+---
+
+💡 *Always exploring new security challenges!*  
