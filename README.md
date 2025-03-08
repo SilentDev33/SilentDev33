@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack  
 - 🔹 Windows Internals | Malware Analysis | Reverse Engineering  
-- 🔹 C, C++, Assembly, Python  
+- 🔹 C, C++, C#, Python  
 - 🔹 x86/x64 Architecture  
 
 ## 📫 How to reach me  
