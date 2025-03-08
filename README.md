@@ -22,8 +22,8 @@
 - 🔹 x86/x64 Architecture  
 
 ## 📫 How to reach me  
-- 💬 [Your LinkedIn or Twitter]  
-- 📧 Email: [Your Email]  
+- 💬 []  
+- 📧 -
 
 ---
 
