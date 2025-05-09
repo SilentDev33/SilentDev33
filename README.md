@@ -22,7 +22,7 @@
 - 🔹 x86/x64 Architecture  
 
 ## 📫 How to reach me  
-- 💬tg: [https://t.me/lxst_century ]  
+- 💬tg: https://t.me/lxst_century 
 - country: 🇷🇺
 
 ---
